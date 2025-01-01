@@ -1,5 +1,5 @@
 <html>
-  <head><title>CV</title></head>
+  <head><title>https://roadmap.sh/projects/single-page-cv</title></head>
   <body>
     <h1>Avinash</h1>
     <p><b>Junior Frontend Developer</b><br>
